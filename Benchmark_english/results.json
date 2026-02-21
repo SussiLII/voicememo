@@ -1,0 +1,58 @@
+[
+  {
+    "file": "en_anker_20min_podcast.ogg",
+    "time_s": 687.5,
+    "segments": 47,
+    "chars": 17553,
+    "words": 3313
+  },
+  {
+    "file": "en_iphone_15min_ai_agents.m4a",
+    "time_s": 514.4,
+    "segments": 38,
+    "chars": 12096,
+    "words": 2250
+  },
+  {
+    "file": "en_iphone_15min_lecture.m4a",
+    "time_s": 584.9,
+    "segments": 38,
+    "chars": 16049,
+    "words": 3174
+  },
+  {
+    "file": "en_iphone_30min_research_talk.m4a",
+    "time_s": 907.2,
+    "segments": 73,
+    "chars": 25923,
+    "words": 4327
+  },
+  {
+    "file": "en_iphone_30min_technical.m4a",
+    "time_s": 903.6,
+    "segments": 74,
+    "chars": 22187,
+    "words": 4283
+  },
+  {
+    "file": "en_iphone_3min_lrm.m4a",
+    "time_s": 97.2,
+    "segments": 9,
+    "chars": 1822,
+    "words": 344
+  },
+  {
+    "file": "en_iphone_6min_answers.m4a",
+    "time_s": 213.7,
+    "segments": 18,
+    "chars": 5026,
+    "words": 910
+  },
+  {
+    "file": "en_iphone_7min_openai_revenue.m4a",
+    "time_s": 220.0,
+    "segments": 19,
+    "chars": 5054,
+    "words": 948
+  }
+]
